@@ -1,0 +1,30 @@
+body{
+	font-family:sans-serif;
+}
+
+.container-fluid span{
+	font-size:2em;
+	color:gray;
+	padding:5% 0;
+}
+
+.navbar {
+	background-color:white;
+	border:none;
+}
+
+.navbar a{
+	font-size:1.25em;
+}
+
+.navbar a:hover{
+	color:green;
+}
+
+.container-fluid{
+	margin:0 30px;
+}
+
+img{
+	margin-right:2%;
+}
